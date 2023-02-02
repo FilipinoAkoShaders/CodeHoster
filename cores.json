@@ -1,0 +1,44 @@
+{
+   "node": {
+      "core": "nodejs",
+      "aliases": [
+         "node"
+      ],
+      "cmd": "node {FILE} {ARGS}"
+   },
+   "nodejs": {
+      "core": "nodejs",
+      "aliases": [
+         "node"
+      ],
+      "cmd": "node {FILE} {ARGS}"
+   },
+   "apache-java": {
+      "core": "java",
+      "aliases": [
+         "apache-java"
+      ],
+      "cmd": "java -jar {FILE} {ARGS}"
+   },
+   "java": {
+      "core": "java",
+      "aliases": [
+         "apache-java"
+      ],
+      "cmd": "java -jar {FILE} {ARGS}"
+   },
+   "python39": {
+      "core": "python",
+      "aliases": [
+         "python39"
+      ],
+      "cmd": "python {FILE} {ARGS}"
+   },
+   "python": {
+      "core": "python",
+      "aliases": [
+         "python39"
+      ],
+      "cmd": "python {FILE} {ARGS}"
+   }
+}

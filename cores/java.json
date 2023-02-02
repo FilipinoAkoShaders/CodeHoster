@@ -1,0 +1,5 @@
+{
+  "core": "java",
+  "aliases": ["apache-java"],
+  "cmd": "java -jar {FILE} {ARGS}"
+}

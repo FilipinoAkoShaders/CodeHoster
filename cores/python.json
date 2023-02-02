@@ -1,0 +1,5 @@
+{
+  "core": "python",
+  "aliases": ["python39"],
+  "cmd": "python {FILE} {ARGS}"
+}

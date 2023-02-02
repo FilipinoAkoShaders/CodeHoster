@@ -1,0 +1,5 @@
+{
+  "core": "nodejs",
+  "aliases": ["node"],
+  "cmd": "node {FILE} {ARGS}"
+}
